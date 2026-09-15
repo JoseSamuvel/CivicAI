@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Environment & sensitive keys
+.env
+
+# Uploaded files
+uploads/
+
+# Production builds
+dist/
+build/
